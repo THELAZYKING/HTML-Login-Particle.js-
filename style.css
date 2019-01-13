@@ -1,0 +1,38 @@
+body{
+  margin: 0;
+  font: normal 16px Arial, Helvetica, san-serif;
+  color:#333;
+    }
+
+  #particles-js{
+  background:firebrick;
+  height: 90%;
+  width: 100%:
+
+}
+ #login{
+   background: #fff;
+   opacity: 0.85;
+   padding:2em;
+   border:#ccc 2px solid;
+   position: absolute;
+   top: 22%;
+   left:42%;
+ }
+
+#login input[type="text"],#login
+input[type="password"]{
+  padding: 7px;
+  margin-bottom: 10px;
+  border: 1px #ccc solid;
+}
+
+#login-btn {
+  position: relative;
+  width: 185px;
+  height: 35px;
+}
+
+#login-img {
+  width: 180px;
+}
