@@ -1,4 +1,4 @@
-# HTML-Login-Particle.js
-HTML template for login using Particle.json for interactive Background
+Login-Particle.js
+Login Template with Particle.json for interactive Background
 
 
